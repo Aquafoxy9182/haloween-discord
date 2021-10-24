@@ -1869,10 +1869,10 @@
     content: "";
     position: fixed;
     top: 220px;
-    bottom: 85px;
+    bottom: 850px;
     right: 70px;
     z-index: -1;
-    width: 300px;
+    width: 1000px;
     border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;
   }
