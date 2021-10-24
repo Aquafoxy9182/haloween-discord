@@ -1847,7 +1847,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "bitch❤";
+    content: "suck dick❤";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1868,11 +1868,11 @@
   .container-2lgZY8::before {
     content: "";
     position: fixed;
-    top: 2200px;
-    bottom: 850px;
-    right: 700px;
+    top: 220px;
+    bottom: 85px;
+    right: 70px;
     z-index: -1;
-    width: 1000px;
+    width: 300px;
     border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;
   }
